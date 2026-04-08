@@ -31,11 +31,16 @@ The goal isn’t to please society or just look "successful." It is about:
 ---
 
 ### 🐍 Python Version
-You can also view this guide directly in your terminal using Python.
+You can run this guide as a script in your terminal.
 
-**How to run:**
-1. Download the `strongkids.py` file.
-2. Open your terminal or command prompt.
-3. Run the script using the following command:
-   ```bash
-   strongkids.py
+**Raw Script Link:**
+[Download strongkids.py (Raw)](https://raw.githubusercontent.com/wansaidon/beyond-the-grades/main/strongkids.py)
+
+---
+
+### ⚠️ Disclaimer
+These are personal reflections and observations. They are not meant to replace professional parenting, medical, or religious advice.
+
+### ✍️ Credits
+Concept and core ideas by **wansaidon**.
+Refined and structured with the help of AI.
