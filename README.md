@@ -34,7 +34,7 @@ The goal isn’t to please society or just look "successful." It is about:
 You can run this guide as a script in your terminal.
 
 **Raw Script Link:**
-[Download strongkids.py (Raw)](https://raw.githubusercontent.com/wansaidon/beyond-the-grades/main/strongkids.py)
+[Download strongkids.py (Raw)](strongkids.py)
 
 ---
 
