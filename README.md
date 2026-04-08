@@ -30,9 +30,12 @@ The goal isn’t to please society or just look "successful." It is about:
 
 ---
 
-### ⚠️ Disclaimer
-These are personal reflections and observations. They are not meant to replace professional parenting, medical, or religious advice.
+### 🐍 Python Version
+You can also view this guide directly in your terminal using Python.
 
-### ✍️ Credits
-Concept and core ideas by **wansaidon**.
-Refined and structured with the help of AI.
+**How to run:**
+1. Download the `strongkids.py` file.
+2. Open your terminal or command prompt.
+3. Run the script using the following command:
+   ```bash
+   strongkids.py
