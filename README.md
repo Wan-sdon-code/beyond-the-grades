@@ -10,7 +10,11 @@ This is just one simple thought:
 
 **Don't only prepare kids to succeed. Prepare them to handle life.**
 
-------------------------------------------------------------------------
+---
+
+![Raising Kids for Life](./raisekids.png)
+
+---
 
 ## 🎓 Grades Matter --- But They're Not Everything
 
