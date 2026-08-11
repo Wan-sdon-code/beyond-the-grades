@@ -1,85 +1,55 @@
 # 👨‍👩‍👧‍👦 Raising Kids for Life, Not Just Grades
 
-> **Good grades can open doors. But grades alone don't teach a child how
-> to handle life.**
+> **We spend years preparing kids for exams. But who prepares them for
+> failure, difficult people, money problems, loss, and everything else
+> life throws at them?**
 
 I'm not a parenting expert.
 
-This is just a simple thought:
+This is just one simple thought:
 
-**Don't only prepare kids to make a living. Prepare them to live.**
+**Don't only prepare kids to succeed. Prepare them to handle life.**
 
 ------------------------------------------------------------------------
 
-## 🎓 1. Grades Matter --- But So Do Values
+## 🎓 Grades Matter --- But They're Not Everything
 
 Of course kids should study.
 
-Teach them to learn, work hard and do their best.
+Teach them to learn, work hard and build useful skills.
 
-But good grades don't automatically teach someone to be honest, kind or
-responsible.
+But good grades don't automatically teach someone to be honest,
+responsible or kind.
 
-A child also needs to learn:
+And their future salary shouldn't decide their worth either.
 
-**Tell the truth.**
+Doctor? Good.
 
-**Keep your word.**
+Engineer? Good.
 
-**Own your mistakes.**
+Hawker? Good.
 
-**Treat people properly.**
+Cleaner? Also good.
 
-Because one day, life will give them a test where the answer isn't in
-the Ten-Year Series. 😂
-
-------------------------------------------------------------------------
-
-## 🛠️ 2. Respect Every Honest Job
-
-Doctor?
-
-Good.
-
-Engineer?
-
-Good.
-
-Hawker?
-
-Good.
-
-Cleaner?
-
-Also good.
-
-A job doesn't decide how good a person is.
-
-Someone doing hard and honest work to feed their family deserves
-respect.
+**Honest work deserves respect.**
 
 Teach kids:
 
-> **Whatever you do, do it properly and honestly.**
+> **Whatever you do, do it properly. Don't cheat people. Don't look down
+> on others.**
 
-Don't cheat.
-
-Don't look down on people.
-
-Don't think earning more money makes you more important than everyone
-else.
+Because eventually life gives you an exam where the answer isn't in the
+Ten-Year Series. 😂
 
 ------------------------------------------------------------------------
 
-## 💰 3. Money Matters --- But It Isn't Everything
+## 💰 Success Has More Than One Scoreboard
 
-Let's be realistic.
-
-Money is important.
+Money matters.
 
 We need it for food, housing, bills and family.
 
-So yes, teach kids to work hard and earn a good living.
+So yes---teach kids to work hard and earn a good living.
 
 But don't teach them:
 
@@ -87,23 +57,17 @@ But don't teach them:
 
 A good life can also mean:
 
-**Good health.**
+**Good health. Peace of mind. Family. Time. Honest work.**
 
-**Peace of mind.**
+Someone earning less isn't automatically less successful.
 
-**People who care about you.**
+And someone earning a lot isn't automatically winning at life.
 
-**Time with your family.**
-
-**Honest work.**
-
-**Being able to sleep peacefully at night.**
-
-Success isn't only about your salary.
+**Money is useful. It shouldn't become your whole identity.**
 
 ------------------------------------------------------------------------
 
-## 🌊 4. Let Them Struggle Sometimes
+## 🌊 Let Them Struggle Sometimes
 
 Parents naturally want to protect their children.
 
@@ -117,17 +81,16 @@ Let them make small mistakes.
 
 Let them try to fix things themselves.
 
-Be there to guide them when they need help.
+Then guide them when they need you.
 
-The goal isn't to make sure your child never falls.
+Because one day, Mum and Dad cannot call customer service for life. 😂
 
-> **Teach them how to get back up.**
-
-Because one day, Mum and Dad won't be able to solve every problem.
+> **The goal isn't to stop them from falling. It's to teach them how to
+> get back up.**
 
 ------------------------------------------------------------------------
 
-## ⚓ 5. Give Them Something to Hold On To
+## ⚓ Give Them Something to Hold On To
 
 Sometimes you can do everything right and things still go wrong.
 
@@ -135,10 +98,9 @@ You can work hard and still fail.
 
 You can make plans and life can change them overnight.
 
-That's where I believe faith matters.
+That's where I believe **faith matters**.
 
-Faith doesn't mean doing nothing and hoping everything magically becomes
-okay.
+Faith doesn't mean doing nothing and waiting for God to fix everything.
 
 You still work.
 
@@ -148,68 +110,65 @@ You still fix what you can.
 
 You still try again.
 
-But you also learn:
+But you also understand:
 
 > **Do your best. Leave what you cannot control to God. Then keep
 > going.**
 
-Sometimes faith doesn't remove the problem.
+Faith doesn't remove every problem.
 
-It simply gives you something to hold on to while you face it.
+Sometimes it simply gives you something to hold on to while you face it.
 
 ------------------------------------------------------------------------
 
 # 🧭 What Are We Really Raising?
 
-Not a walking report card.
+Not a report card.
 
 Not a future salary.
 
-Not someone whose whole life becomes:
+Not someone whose whole identity becomes:
 
 > **"My child working what company ah?"** 😂
 
-We're raising a person who will one day have to live without us making
-every decision for them.
+We're raising a human being who will one day have to face life without
+us solving every problem for them.
 
-Hopefully, they grow up knowing how to:
+So give them:
 
-**Think for themselves.**
+**Education** to build their future.
 
-**Work hard.**
+**Values** to know right from wrong.
 
-**Be honest.**
+**Hard times** to learn how to get back up.
 
-**Respect people.**
+**Love** so they know where home is.
 
-**Take responsibility.**
+**Faith** so they have something to hold on to when life doesn't make
+sense.
 
-**Handle failure.**
+One day, they'll have to walk their own road.
 
-**Care for others.**
-
-**Keep going when life gets hard.**
+Hopefully, when that day comes, they know who they are and what they
+stand for.
 
 ------------------------------------------------------------------------
 
 # 🕊️ The Simple Idea
 
-**Education teaches them useful things.**
+> ## **Don't only prepare your kids for success. Prepare them for life.**
 
-**Values teach them how to treat people.**
+Teach them how to work.
 
-**Hard times teach them how to get back up.**
+Teach them how to treat people.
 
-**Faith gives them something to hold on to.**
+Teach them how to lose.
 
-**Love reminds them they always have somewhere to come home to.**
+Teach them how to get back up.
 
-One day, our kids will have to face life without us solving every
-problem for them.
+And when something happens that they cannot control...
 
-So don't only teach them how to succeed.
-
-> ## **Teach them how to live, how to fall, and how to get back up.**
+**teach them that they don't have to face it without faith.**
 
 ------------------------------------------------------------------------
 
@@ -232,6 +191,6 @@ A personal reflection on raising kids and preparing them for life.
 
 ------------------------------------------------------------------------
 
-*Don't only prepare your kids for success.*
+*One day we won't be able to solve their problems.*
 
-***Prepare them for life.***
+***So teach them how to face them.***
