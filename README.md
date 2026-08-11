@@ -170,9 +170,7 @@ Teach them how to lose.
 
 Teach them how to get back up.
 
-And when something happens that they cannot control...
-
-**teach them that they don't have to face it without faith.**
+And when life gets difficult, teach them they can face it with faith.
 
 ------------------------------------------------------------------------
 
