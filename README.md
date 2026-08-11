@@ -133,7 +133,7 @@ Not a future salary.
 
 Not someone whose whole identity becomes:
 
-> **"My child working what company ah?"** 😂
+> **"My child working in this company ah?"** 😂
 
 We're raising a human being who will one day have to face life without
 us solving every problem for them.
