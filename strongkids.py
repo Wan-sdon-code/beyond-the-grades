@@ -4,32 +4,26 @@
 print("👨‍👩‍👧‍👦 RAISING KIDS FOR LIFE")
 print("=" * 35)
 
-print("\nGood grades can open doors.")
-print("But grades alone don't prepare a child for life.")
+print("\nWhat should we prepare our kids for?\n")
 
-print("\nWhat should we teach our kids?\n")
+lessons = {
+    "Education": "Learn and build useful skills.",
+    "Values": "Be honest and treat people properly.",
+    "Work": "Respect every honest job.",
+    "Failure": "Fall, learn, and get back up.",
+    "Faith": "Do your best and trust God with what you can't control.",
+    "Love": "Remember that you always have somewhere to come home to."
+}
 
-lessons = [
-    "📚 Learn and do your best",
-    "❤️ Treat people properly",
-    "🤝 Respect every honest job",
-    "💰 Don't measure life only by money",
-    "🌊 Learn how to handle failure",
-    "🙏 Have faith when life gets difficult",
-    "🏠 Remember the people who love you",
-]
-
-for lesson in lessons:
-    print(lesson)
+for lesson, meaning in lessons.items():
+    print(f"• {lesson}: {meaning}")
 
 print("\n" + "=" * 35)
 
-answer = input("\nWhat is one value you would teach your child? ")
+answer = input("\nWhat is one thing you want your child to learn about life? ")
 
-print(f"\nThat's worth passing on: {answer}")
+print(f"\n❤️ Your answer: {answer}")
 
-print("\nOne day, we won't be able to solve")
-print("every problem for our kids.")
-
-print("\nSo don't only prepare them for success.")
+print("\nOne day, we won't be able to solve every problem for them.")
+print("So don't only prepare your kids for success.")
 print("Prepare them for life. 🌱")
