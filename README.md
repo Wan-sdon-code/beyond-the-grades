@@ -43,7 +43,7 @@ Teach kids:
 > on others.**
 
 Because eventually life gives you an exam where the answer isn't in the
-Ten-Year Series. 😂
+10-Year Series. 😂
 
 ------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ Let them try to fix things themselves.
 
 Then guide them when they need you.
 
-Because one day, Mum and Dad cannot call customer service for life. 😂
+Because one day, Mum and Dad won't be there to solve every problem for them.
 
 > **The goal isn't to stop them from falling. It's to teach them how to
 > get back up.**
