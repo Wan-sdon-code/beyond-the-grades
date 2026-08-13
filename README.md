@@ -92,7 +92,7 @@ And when they really need you:
 
 **Be there.**
 
-> **Because Mum and Dad cannot cannot be there forever.** 😂
+> **Because Mum and Dad cannot be there forever.** 😂
 
 Give them support.
 
