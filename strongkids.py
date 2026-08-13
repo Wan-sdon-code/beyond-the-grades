@@ -1,29 +1,42 @@
-# Raising Kids for Life, Not Just Grades
-# Concept by Wansaidon
+# 👨‍👩‍👧‍👦 Raising Kids for Life, Not Just Grades
+# Concept & direction: Wansaidon
 
 print("👨‍👩‍👧‍👦 RAISING KIDS FOR LIFE")
-print("=" * 35)
+print("=" * 40)
 
 print("\nWhat should we prepare our kids for?\n")
 
 lessons = {
-    "Education": "Learn and build useful skills.",
+    "Education": "Learn and do your best.",
     "Values": "Be honest and treat people properly.",
-    "Work": "Respect every honest job.",
-    "Failure": "Fall, learn, and get back up.",
-    "Faith": "Do your best and trust God with what you can't control.",
-    "Love": "Remember that you always have somewhere to come home to."
+    "Resilience": "Fall, learn and get back up.",
+    "Home": "Know Mum and Dad are there for you.",
+    "Faith": "Do your best and trust God with what you cannot control."
 }
 
 for lesson, meaning in lessons.items():
     print(f"• {lesson}: {meaning}")
 
-print("\n" + "=" * 35)
+print("\n" + "=" * 40)
+
+print("\n🌱 LIFE WILL NOT ALWAYS GO YOUR WAY")
+print("You may fail.")
+print("You may feel left out.")
+print("You may make mistakes.")
+print("You may have to start again.")
+
+print("\nBut that's part of life.")
+
+print("\n❤️ REMEMBER")
+print("Mum and Dad cannot be there forever.")
+print("One day, you have to face life yourself.")
+print("But you don't have to face it without faith.")
+
+print("\n" + "=" * 40)
 
 answer = input("\nWhat is one thing you want your child to learn about life? ")
 
 print(f"\n❤️ Your answer: {answer}")
 
-print("\nOne day, we won't be able to solve every problem for them.")
-print("So don't only prepare your kids for success.")
+print("\nDon't only prepare your kids for success.")
 print("Prepare them for life. 🌱")
