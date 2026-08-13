@@ -1,14 +1,16 @@
 # 👨‍👩‍👧‍👦 Raising Kids for Life, Not Just Grades
 
-> **We spend years preparing kids for exams. But who prepares them for
-> failure, difficult people, money problems, loss, and everything else
-> life throws at them?**
+> **PSLE. O-Level. Diploma. Degree. Good job. Good salary.**
+>
+> We prepare kids for the next step.
+>
+> **But are we preparing them for life?**
 
 I'm not a parenting expert.
 
-This is just one simple thought:
+Just one simple thought:
 
-**Don't only prepare kids to succeed. Prepare them to handle life.**
+> ## **Don't only prepare kids to succeed. Prepare them to handle life.**
 
 ---
 
@@ -16,183 +18,145 @@ This is just one simple thought:
 
 ---
 
-## 🎓 Grades Matter --- But They're Not Everything
+## 🎓 Grades Matter — But Life Got No Model Answer
 
 Of course kids should study.
 
-Teach them to learn, work hard and build useful skills.
+But growing up today also means dealing with:
 
-But good grades don't automatically teach someone to be honest,
-responsible or kind.
+**Pressure. FOMO. Friendship problems. Failure. Social media.**
 
-And their future salary shouldn't decide their worth either.
+Open social media...
 
-Doctor? Good.
+Someone got better results.
 
-Engineer? Good.
+Someone went holiday.
 
-Hawker? Good.
+Someone got something new.
 
-Cleaner? Also good.
+Then start thinking:
 
-**Honest work deserves respect.**
+> **"Wah, how come everybody doing better than me?"**
 
-Teach kids:
+But what we see online isn't someone's whole life.
 
-> **Whatever you do, do it properly. Don't cheat people. Don't look down
-> on others.**
+Study hard.
 
-Because eventually life gives you an exam where the answer isn't in the
-10-Year Series. 😂
+Do your best.
 
-------------------------------------------------------------------------
+But don't forget to live also.
 
-## 💰 Success Has More Than One Scoreboard
+> **Childhood got no replay button.** 😂
 
-Money matters.
+---
 
-We need it for food, housing, bills and family.
+## ❤️ Sometimes "I'm Okay" Doesn't Mean Okay
 
-So yes---teach kids to work hard and earn a good living.
+Don't only ask:
 
-But don't teach them:
+> **"How many marks you get?"**
 
-> **"If I'm not rich, I'm a failure."**
+Sometimes ask:
 
-A good life can also mean:
+> **"You okay or not?"**
 
-**Good health. Peace of mind. Family. Time. Honest work.**
+Then really listen.
 
-Someone earning less isn't automatically less successful.
+School got pressure.
 
-And someone earning a lot isn't automatically winning at life.
+Friends got pressure.
 
-**Money is useful. It shouldn't become your whole identity.**
+Social media also got pressure.
 
-------------------------------------------------------------------------
+Come home already...
 
-## 🌊 Let Them Struggle Sometimes
+> **Don't add more pressure lah.**
 
-Parents naturally want to protect their children.
+Sometimes they don't need another lecture.
 
-But don't solve every problem for them.
+**They just need Mum and Dad to listen.**
+
+---
+
+## 🌱 Let Them Learn to Handle Life
+
+Don't solve every small problem for them.
+
+Let them try.
 
 Let them lose sometimes.
 
-Let them hear **"no."**
+Let them make mistakes and learn.
 
-Let them make small mistakes.
+And when they really need you:
 
-Let them try to fix things themselves.
+**Be there.**
 
-Then guide them when they need you.
+> **Because Mum and Dad cannot cannot be there forever.** 😂
 
-Because one day, Mum and Dad won't be there to solve every problem for them.
+Give them support.
 
-> **The goal isn't to stop them from falling. It's to teach them how to
-> get back up.**
+But also give them room to grow.
 
-------------------------------------------------------------------------
+---
 
-## ⚓ Give Them Something to Hold On To
+## 🙏 Give Them Something to Hold On To
 
-Sometimes you can do everything right and things still go wrong.
+Sometimes you can study hard, work hard and do your best...
 
-You can work hard and still fail.
+and things still don't go your way.
 
-You can make plans and life can change them overnight.
+That's where I believe faith matters.
 
-That's where I believe **faith matters**.
+**Do your best.**
 
-Faith doesn't mean doing nothing and waiting for God to fix everything.
+**Ask for help.**
 
-You still work.
+**Try again.**
 
-You still ask for help.
+**Trust God with what you cannot control.**
 
-You still fix what you can.
+> **Faith doesn't remove every problem. It gives you something to hold on to while facing it.**
 
-You still try again.
+---
 
-But you also understand:
+# 🧭 The Simple Idea
 
-> **Do your best. Leave what you cannot control to God. Then keep
-> going.**
+Give them:
 
-Faith doesn't remove every problem.
+**🎓 Education** — Learn.
 
-Sometimes it simply gives you something to hold on to while you face it.
+**❤️ Values** — Be a good person.
 
-------------------------------------------------------------------------
+**🌱 Resilience** — Learn to get back up.
 
-# 🧭 What Are We Really Raising?
+**🏠 Home** — Know Mum and Dad are there.
 
-Not a report card.
-
-Not a future salary.
-
-Not someone whose whole identity becomes:
-
-> **"My child working in this company ah?"** 😂
-
-We're raising a human being who will one day have to face life without
-us solving every problem for them.
-
-So give them:
-
-**Education** to build their future.
-
-**Values** to know right from wrong.
-
-**Hard times** to learn how to get back up.
-
-**Love** so they know where home is.
-
-**Faith** so they have something to hold on to when life doesn't make
-sense.
-
-One day, they'll have to walk their own road.
-
-Hopefully, when that day comes, they know who they are and what they
-stand for.
-
-------------------------------------------------------------------------
-
-# 🕊️ The Simple Idea
+**🙏 Faith** — Have something to hold on to.
 
 > ## **Don't only prepare your kids for success. Prepare them for life.**
 
-Teach them how to work.
-
-Teach them how to treat people.
-
-Teach them how to lose.
-
-Teach them how to get back up.
-
-And when life gets difficult, teach them they can face it with faith.
-
-------------------------------------------------------------------------
+---
 
 ## 🐍 Python Version
 
-Run the simple companion script:
+[View `strongkids.py`](strongkids.py)
 
-[Download `strongkids.py` (Raw)](strongkids.py)
+---
 
-------------------------------------------------------------------------
-
-## Disclaimer
+## ⚠️ Disclaimer
 
 A personal reflection on raising kids and preparing them for life.
 
-## Credits
+---
 
-**Concept & direction:** Wansaidon\
+## ✍️ Credits
+
+**Concept & direction:** Wansaidon  
 **Written with:** ChatGPT by OpenAI
 
-------------------------------------------------------------------------
+---
 
-*One day we won't be able to solve their problems.*
+> **One day we can't solve every problem for them.**
 
-***So teach them how to face them.***
+***So teach them how to face life — and remind them they don't have to face it alone.***
