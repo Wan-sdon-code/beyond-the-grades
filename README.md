@@ -2,13 +2,13 @@
 
 > **PSLE. O-Level. Diploma. Degree. Good job. Good salary.**
 >
-> We spend years preparing kids for the next step.
+> We spend years preparing our kids for the next step.
 >
 > **But are we preparing them for life?**
 
 I'm not a parenting expert.
 
-Just one simple thought:
+This is just one simple thought:
 
 > ## **Don't only prepare kids to succeed. Prepare them to handle life.**
 
@@ -22,12 +22,13 @@ Just one simple thought:
 
 Of course kids should study.
 
-Teach them to learn, work hard and do their best.
+Learn properly.
 
-But good grades don't automatically teach someone to be kind, honest or
-responsible.
+Work hard.
 
-And their future salary shouldn't decide their worth either.
+Do your best.
+
+But a good report card doesn't automatically make someone a good person.
 
 Doctor? Good.
 
@@ -37,48 +38,80 @@ Hawker? Good.
 
 Cleaner? Also honest work.
 
-> **Whatever you do, do it properly. Don't cheat people. Don't look down
-> on others.**
+Teach them:
 
-Because sooner or later, life gives you questions that don't come with
-model answers. 😂
+> **Do your work properly. Don't cheat people. Don't look down on others.**
+
+Because one day, life will give them problems that don't come with
+model answers.
 
 ---
 
-## 📱 Growing Up Is Different Now
+## ❤️ Teach Them to Be Good People
 
-Kids today have another world in their pocket.
+Singapore is small.
 
-Social media.
+Different races.
+
+Different religions.
+
+Different cultures.
+
+Different backgrounds.
+
+Our kids will study, work and live with people who may be very different
+from them.
+
+Teach them early:
+
+**Different race? Respect.**
+
+**Different religion? Respect.**
+
+**Different background? Respect.**
+
+They don't have to agree with everybody.
+
+They don't have to believe the same things either.
+
+> **You don't have to be the same to treat someone properly.**
+
+Being successful means very little if you grow up looking down on other
+people.
+
+---
+
+## 📱 Don't Let Comparison Steal Their Childhood
+
+Growing up today is different.
+
+Open social media...
 
 Someone got better results.
 
-Someone got new shoes.
+Someone got new things.
 
 Someone went holiday.
 
-Someone looks like they're having the perfect life.
+Someone looks like they're living the perfect life.
 
-Then start thinking:
+Then:
 
 > **"Wah... how come everybody doing better than me?"**
 
-But what we see online isn't someone's whole life.
+Teach them that social media shows moments.
 
-Teach them not to measure their life against somebody else's best
-moments.
+**Not somebody's whole life.**
 
-Study hard.
-
-But go outside also.
-
-Meet people.
+Study hard, but go and live also.
 
 Play.
 
-Talk.
+Make friends.
 
 Spend time with family.
+
+Put the phone down sometimes.
 
 > **Childhood got no replay button.**
 
@@ -86,21 +119,7 @@ Spend time with family.
 
 ## ❤️ Sometimes "I'm Okay" Doesn't Mean Okay
 
-Not every problem appears on a report card.
-
-Kids can struggle with:
-
-**School pressure.**
-
-**Friends.**
-
-**FOMO.**
-
-**Feeling left out.**
-
-**Fear of disappointing Mum and Dad.**
-
-So don't only ask:
+Don't only ask:
 
 > **"How many marks you get?"**
 
@@ -110,18 +129,21 @@ Sometimes ask:
 
 Then really listen.
 
-Outside kena pressure already.
+School got pressure.
 
-Come home...
+Friends got pressure.
+
+Social media got pressure.
+
+Come home already...
 
 > **Don't kena another round.**
 
-Sometimes they don't need another lecture.
+Sometimes they need advice.
 
-**They just need Mum and Dad to listen.**
+Sometimes they need help.
 
-And if something is seriously wrong, asking for proper help is nothing
-to be ashamed of.
+And sometimes they just need Mum and Dad to listen.
 
 ---
 
@@ -137,77 +159,72 @@ Let them lose sometimes.
 
 Let them hear **"no."**
 
-Let them make small mistakes.
+Let them make small mistakes and learn.
 
-Let them learn how to fix things.
-
-And when they really need help:
+When they really need you:
 
 **Be there.**
 
-> **Mum and Dad cannot be there forever. One day, they have to face life
-> themselves.**
+But remember:
 
-The goal isn't to make life difficult for them.
+> **Mum and Dad cannot be there forever.**
 
-It's to let them grow while they still have us around.
+One day, they will have to make their own decisions, solve their own
+problems and face their own failures.
+
+So while we're here, let them learn.
 
 ---
 
-## 🏠 Let Home Be Somewhere They Can Come Back To
+## 🏠 Make Sure They Know They Can Come Home
 
-Maybe they fail an exam.
+Maybe they fail.
 
 Maybe they choose the wrong path.
 
 Maybe they make a mistake.
 
-Maybe their life doesn't turn out exactly how we imagined.
+Maybe they disappoint you.
+
+Correct them when they're wrong.
 
 Guide them.
 
-Correct them when needed.
-
 But let them know:
 
-> **"Whatever happens outside, you can still come home and talk."**
+> **"Whatever happens, come home and talk."**
 
 That doesn't mean everything they do is okay.
 
-It means they know they don't have to hide every problem until it
-becomes worse.
+It means they don't have to hide their problems because they're scared
+of Mum and Dad.
 
-Sometimes knowing someone is still there gives you the courage to try
-again.
+Home should be where they can learn, recover and try again.
 
 ---
 
-## 🙏 Give Them Something to Hold On To
+## 🙏 Give Them Faith — And Teach Them Respect
 
-Sometimes you can study hard, work hard and do everything properly...
+I would teach my child my faith.
 
-and things still don't go your way.
+But I would also teach them to respect someone else's.
 
-That's where I believe **faith matters**.
+Faith doesn't mean sitting there waiting for God to solve everything.
 
-Faith doesn't mean sitting there and waiting for God to solve
-everything.
+**Work.**
 
-You still work.
+**Ask for help.**
 
-You still ask for help.
+**Fix what you can.**
 
-You still fix what you can.
+**Try again.**
 
-You still try again.
+Then trust God with what you cannot control.
 
-Then:
+> **Faith doesn't remove every problem. It gives you something to hold on to while facing it.**
 
-> **Do your best. Trust God with what you cannot control. Keep going.**
-
-Faith doesn't remove every problem.
-
-**It gives you something to hold on to while facing it.**
+And having faith should never be an excuse to treat someone of another
+faith badly.
 
 ---
 
@@ -219,13 +236,15 @@ Not just a future worker.
 
 Not just a future salary.
 
-We're raising someone who will eventually have to face life themselves.
+**A human being.**
 
 So give them:
 
-**🎓 Education** — Learn and build a future.
+**🎓 Education** — Build a future.
 
-**❤️ Values** — Know right from wrong.
+**❤️ Values** — Be a good person.
+
+**🤝 Respect** — Race or religion, treat people properly.
 
 **🌱 Resilience** — Fall, learn and get back up.
 
@@ -237,27 +256,25 @@ So give them:
 
 # 🕊️ The Simple Idea
 
-> ## **Don't only prepare your kids for success. Prepare them for life.**
+> ## **Don't only raise a child who can pass exams.**
+>
+> ## **Raise one who can face life and still be a good human being.**
 
-Teach them how to work.
+One day, Mum and Dad cannot be there forever.
 
-Teach them how to treat people.
+Until then:
 
-Teach them how to lose.
+**Teach them.**
 
-Teach them how to get back up.
+**Listen to them.**
 
-Teach them that asking for help is okay.
+**Let them grow.**
 
-And when life doesn't go according to plan:
-
-**Teach them they can face it with faith.**
+**And love them enough to prepare them for life.**
 
 ---
 
 ## 🐍 Python Version
-
-Run the simple companion script:
 
 [View `strongkids.py`](strongkids.py)
 
@@ -277,7 +294,6 @@ life. It is not professional parenting or mental-health advice.
 
 ---
 
-> **Mum and Dad cannot be there forever.**
+> **Good grades can open doors.**
 
-***So while we are here, prepare them not just for the next exam — but
-for life.***
+***Good values decide what kind of person walks through them.***
