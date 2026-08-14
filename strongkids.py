@@ -5,24 +5,21 @@ print("👨‍👩‍👧‍👦 RAISING KIDS FOR LIFE")
 print("Not Just Grades")
 print("=" * 45)
 
-# The five things this project focuses on
-
 lessons = {
-    "🎓 Education": "Learn, work hard and build a future.",
+    "🎓 Education": "Learn, work hard and do your best.",
     "❤️ Values": "Be honest and treat people properly.",
+    "🤝 Respect": "Different race or religion? Respect.",
     "🌱 Resilience": "Fall, learn and get back up.",
     "🏠 Home": "Know you have somewhere to come back to.",
     "🙏 Faith": "Do your best and trust God with what you cannot control."
 }
 
-print("\n🧭 WHAT ARE WE REALLY RAISING?\n")
+print("\n🧭 MORE THAN JUST GRADES\n")
 
 for lesson, meaning in lessons.items():
     print(f"{lesson} — {meaning}")
 
 print("\n" + "=" * 45)
-
-# Life is more than grades
 
 print("\n🌍 LIFE GOT NO MODEL ANSWER")
 
@@ -43,15 +40,20 @@ print("Life needs more than that.")
 
 print("\n" + "=" * 45)
 
-# Simple reflection
-
-print("\n❤️ ONE SIMPLE QUESTION")
-
 answer = input(
-    "Besides good grades, what is one thing "
+    "\nBesides good grades, what is one thing "
     "you want your child to learn about life? "
 )
 
-print(f"\nYour answer: {answer}")
+print(f"\n❤️ Your answer: {answer}")
 
-print("\n" + "=" * 45
+print("\n" + "=" * 45)
+
+print("\n🌱 FINAL THOUGHT")
+print("Mum and Dad cannot be there forever.")
+print("So while we are here...")
+print("prepare them not just for the next exam,")
+print("but for life.")
+
+print("\nGood grades can open doors.")
+print("Good values decide what kind of person walks through them.")
