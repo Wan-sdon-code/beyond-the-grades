@@ -14,7 +14,7 @@ This is just one simple thought:
 
 ---
 
-![Raising Kids for Life](./raisekids.png)
+![Raising Kids for Life](./raisingkids.png)
 
 ---
 
