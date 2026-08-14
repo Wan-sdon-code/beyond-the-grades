@@ -2,7 +2,7 @@
 
 > **PSLE. O-Level. Diploma. Degree. Good job. Good salary.**
 >
-> We prepare kids for the next step.
+> We spend years preparing kids for the next step.
 >
 > **But are we preparing them for life?**
 
@@ -22,37 +22,85 @@ Just one simple thought:
 
 Of course kids should study.
 
-But growing up today also means dealing with:
+Teach them to learn, work hard and do their best.
 
-**Pressure. FOMO. Friendship problems. Failure. Social media.**
+But good grades don't automatically teach someone to be kind, honest or
+responsible.
 
-Open social media...
+And their future salary shouldn't decide their worth either.
+
+Doctor? Good.
+
+Engineer? Good.
+
+Hawker? Good.
+
+Cleaner? Also honest work.
+
+> **Whatever you do, do it properly. Don't cheat people. Don't look down
+> on others.**
+
+Because sooner or later, life gives you questions that don't come with
+model answers. 😂
+
+---
+
+## 📱 Growing Up Is Different Now
+
+Kids today have another world in their pocket.
+
+Social media.
 
 Someone got better results.
 
+Someone got new shoes.
+
 Someone went holiday.
 
-Someone got something new.
+Someone looks like they're having the perfect life.
 
 Then start thinking:
 
-> **"Wah, how come everybody doing better than me?"**
+> **"Wah... how come everybody doing better than me?"**
 
 But what we see online isn't someone's whole life.
 
+Teach them not to measure their life against somebody else's best
+moments.
+
 Study hard.
 
-Do your best.
+But go outside also.
 
-But don't forget to live also.
+Meet people.
 
-> **Childhood got no replay button.** 😂
+Play.
+
+Talk.
+
+Spend time with family.
+
+> **Childhood got no replay button.**
 
 ---
 
 ## ❤️ Sometimes "I'm Okay" Doesn't Mean Okay
 
-Don't only ask:
+Not every problem appears on a report card.
+
+Kids can struggle with:
+
+**School pressure.**
+
+**Friends.**
+
+**FOMO.**
+
+**Feeling left out.**
+
+**Fear of disappointing Mum and Dad.**
+
+So don't only ask:
 
 > **"How many marks you get?"**
 
@@ -62,101 +110,37 @@ Sometimes ask:
 
 Then really listen.
 
-School got pressure.
+Outside kena pressure already.
 
-Friends got pressure.
+Come home...
 
-Social media also got pressure.
-
-Come home already...
-
-> **Don't add more pressure lah.**
+> **Don't kena another round.**
 
 Sometimes they don't need another lecture.
 
 **They just need Mum and Dad to listen.**
 
+And if something is seriously wrong, asking for proper help is nothing
+to be ashamed of.
+
 ---
 
 ## 🌱 Let Them Learn to Handle Life
 
-Don't solve every small problem for them.
+Parents naturally want to protect their kids.
+
+But cannot settle everything for them.
 
 Let them try.
 
 Let them lose sometimes.
 
-Let them make mistakes and learn.
+Let them hear **"no."**
 
-And when they really need you:
+Let them make small mistakes.
 
-**Be there.**
+Let them learn how to fix things.
 
-> **Because Mum and Dad cannot be there forever.** 😂
+And when they really need help:
 
-Give them support.
-
-But also give them room to grow.
-
----
-
-## 🙏 Give Them Something to Hold On To
-
-Sometimes you can study hard, work hard and do your best...
-
-and things still don't go your way.
-
-That's where I believe faith matters.
-
-**Do your best.**
-
-**Ask for help.**
-
-**Try again.**
-
-**Trust God with what you cannot control.**
-
-> **Faith doesn't remove every problem. It gives you something to hold on to while facing it.**
-
----
-
-# 🧭 The Simple Idea
-
-Give them:
-
-**🎓 Education** — Learn.
-
-**❤️ Values** — Be a good person.
-
-**🌱 Resilience** — Learn to get back up.
-
-**🏠 Home** — Know Mum and Dad are there.
-
-**🙏 Faith** — Have something to hold on to.
-
-> ## **Don't only prepare your kids for success. Prepare them for life.**
-
----
-
-## 🐍 Python Version
-
-[View `strongkids.py`](strongkids.py)
-
----
-
-## ⚠️ Disclaimer
-
-A personal reflection on raising kids and preparing them for life.
-
----
-
-## ✍️ Credits
-
-**Concept & direction:** Wansaidon  
-**Written with:** ChatGPT by OpenAI
-
----
-
-> **One day we can't solve every problem for them.**
-
-***So teach them how to face life — and remind them they don't have to face it alone.***
+**
